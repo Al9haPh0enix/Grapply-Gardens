@@ -97,5 +97,4 @@ public class Movement : MonoBehaviour
             LinePos1 = this.transform.position;
         }
     }
-
 }
